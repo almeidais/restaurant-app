@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Inventory management + food order app.
 
+# Live Demo
+
+https://almeidais.github.io/restaurant-app/
+
 ## Available Scripts
 
 In the project directory, you can run:
