@@ -4,9 +4,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Inventory management + food order app.
 
-# Live Demo
+# Screenshot
 
-https://almeidais.github.io/restaurant-app/
+https://ibb.co/1f3Sjf1
+
+_*Note: Firebase not working properly in Github pages, therefore no live demo available._
 
 ## Available Scripts
 
